@@ -21,9 +21,18 @@ function range(start, end) {
    }
     // YOUR CODE GOES BELOW HERE // 
  
-    range(29, 9); // => [29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 12, 11, 10, 9]
+    range(10, 19); // => [10, 11, 12, 13, 14, 15, 16, 17, 18 ,19 ]
 
     console.log(results)
     
     // YOUR CODE GOES ABOVE HERE //
 }
+
+//BONUS
+
+function range(start, end) {
+   } 
+   range(29, 9); // => [29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 12, 11, 10, 9]
+
+  console.log(results)
+ }
